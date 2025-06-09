@@ -1,0 +1,5 @@
+# تجاهل node_modules من التتبع
+FingerPrint-Front2290/node_modules/
+
+# تجاهل الملفات المضغوطة
+*.zip
